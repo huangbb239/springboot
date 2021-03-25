@@ -1,0 +1,2 @@
+server:
+  port: 8080 #内嵌的tomcat端口号
